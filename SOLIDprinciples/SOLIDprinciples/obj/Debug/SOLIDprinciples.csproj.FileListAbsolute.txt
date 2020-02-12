@@ -1,0 +1,2 @@
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\Basics\SOLIDprinciples\SOLIDprinciples\bin\Debug\SOLIDprinciples.exe.config
+C:\Users\kamogelo.ramokgadi\Desktop\Kamo\Projects\Basics\SOLIDprinciples\SOLIDprinciples\bin\Debug\SOLIDprinciples.exe.config
